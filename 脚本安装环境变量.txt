@@ -1,0 +1,1 @@
+ArmGCC设置环境变量点install即可自动安装
